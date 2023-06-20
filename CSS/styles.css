@@ -1,0 +1,36 @@
+body {
+  background-color: #CEE5D0 ;
+  font-family: 'Nunito', sans-serif;
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #FCF8E8;
+  border-width: 10px;
+  width: 6%;
+}
+.heading {
+  color: #0F3D3E;
+}
+h3 {
+  color: #576F72;
+}
+th {
+  color: #576F72;
+}
+.button {
+  background-color: #FFBF86;
+}
+a:link {
+  color: #562B08;
+}
+a:visited{
+  color: #562B08;
+}
+a:hover {
+  color: #BE8C63;
+}
+.nonLink {
+  text-decoration: underline #562B08;
+  color: #562B08;
+}
